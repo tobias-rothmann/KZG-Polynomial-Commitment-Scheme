@@ -1,5 +1,5 @@
 # Formalizing the KZG-Polynomial-Commitment-Scheme in Isabelle/HOL
-This is my bachelor thesis. 
+This is my bachelor thesis. Find the continued work [here on github](https://github.com/tobias-rothmann/Polynomial-Commitment-Schemes)
 
 ## Isabelle/HOL
 [Isabelle/HOL](https://isabelle.in.tum.de/) is an open-source interactive theorem prover. The version used for this formalization is Isabelle2022 (as of writing this the most recent version).
